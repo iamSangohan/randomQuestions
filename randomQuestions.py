@@ -48,5 +48,5 @@ for i in range(0, qLen): # Main loop of the program
     print("----------------------------\n")
     print(f"\033[1m\033[96m{qList[rIndex[i]]}\033[0m\n") # puts the question in bold blue text
     t = input(">> Press ENTER for a new question... ") # input() to wait
-    if(t == "exit"):
+    if(t == "exit"): # if input is exit, exit
         break
