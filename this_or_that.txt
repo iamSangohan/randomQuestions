@@ -1,0 +1,187 @@
+1. Dog or Cat?
+2. Netflix or YouTube?
+3. Phone Call or Text?
+4. Toast or Eggs?
+5. Cardio or Weights?
+6. Facebook or Twitter?
+7. Ice Cream Cone or Snow Cone?
+8. Mobile Games or Console Games?
+9. While walking: Music or Podcasts?
+10. iOS or Android?
+11. Form or Function?
+12. Pop or Indie?
+13. Cake or Pie?
+14. Swimming or Sunbathing?
+15. High-tech or Low-tech?
+16. Big Party or Small Gathering?
+17. New Clothes or New Phone?
+18. Rich Friend or Loyal Friend?
+19. Football or Basketball?
+20. Work Hard or Play Hard?
+21. Nice Car or Nice Home Interior?
+22. What’s worse: Laundry or Dishes?
+23. Jogging or Hiking?
+24. Bath or Shower?
+25. Sneakers or Sandals?
+26. Glasses or Contacts?
+27. Hamburger or Taco?
+28. Couch or Recliner?
+29. Online Shopping or Shopping in a Store?
+30. Receive: Email or Letter?
+31. Passenger or Driver?
+32. Tablet or Computer?
+33. Most important in a partner: Intelligent or Funny?
+34. Car or Truck?
+35. Blue or Red?
+36. Money or Free Time?
+37. Amusement Park or Day at the Beach?
+38. At a movie: Candy or Popcorn?
+39. Pen or Pencil?
+40. Toilet paper: Over or Under?
+41. Cups in the cupboard: Right Side Up or Up Side Down?
+42. Pancake or Waffle?
+43. Coke or Pepsi?
+44. Coffee Cup or Thermos?
+45. Blinds or Curtain?
+46. Train or Plane?
+47. Phone or Phablet?
+48. Iced Coffee or Hot Coffee?
+49. Meat or Vegetables?
+50. International Vacation or a New TV?
+51. Save or Spend?
+52. Honesty or Other’s Feelings?
+53. Coffee or Tea?
+54. TV or Book?
+55. Movie at Home or Movie at the Theater?
+56. Ocean or Mountains?
+57. Horror Movie or Comedy Movie?
+58. City or Countryside?
+59. Winter or Summer?
+60. Mac or PC?
+61. Console Gaming or PC Gaming?
+62. Soup or Sandwich?
+63. Card Game or Board Game?
+64. Classical Art or Modern Art?
+65. Beer or Wine?
+66. Camping or Binge Watching Shows at Home?
+67. Working Alone or Working in a Team?
+68. Dine In or Delivery?
+69. Sweater or Hoodie?
+70. Comic Book or Comic Strips?
+71. Motorcycle or Bicycle?
+72. Book or eBook?
+73. When sleeping: Fan or No Fan?
+74. Ninjas or Pirates?
+75. TV Shows or Movies?
+76. Board games or card games?
+77. Video games or books?
+78. Bus or train?
+79. Paperback book or eBook?
+80. Summer or Winter?
+81. Country or city?
+82. Broccoli or green beans?
+83. Beach or mountains?
+84. Soda or juice?
+85. The toilet paper goes over or under?
+86. Pancakes or waffles?
+87. Morning or night?
+88. Credit or cash?
+89. Tacos or wings?
+90. Shopping in-store or online?
+91. Shower or bath?
+92. Football or basketball?
+93. Instagram or Facebook?
+94. New phone or a new laptop?
+95. Work or school?
+96. High heels or flats?
+97. Rock or hip hop?
+98. Pen or pencil?
+99. Vacation or staycation?
+100. Long or short hair?
+101. Roller coasters or bumper cars?
+102. Giving a gift or receiving a gift?
+103. Iced tea or hot tea?
+104. Sleep on the left or the right side of the bed?
+105. Desktop or laptop?
+106. Zip-up or pullover hoodie?
+107. Jeans or sweatpants?
+108. Socks or barefoot?
+109. Sleep in the quite or with noise?
+110. Scary movie or a funny movie?
+111. Pepsi or Coca Cola?
+112. Dark chocolate or white chocolate?
+113. Sour or sweet?
+114. Hair straight or curly?
+115. Romance or loyalty in a relationship?
+116. Lipstick or lip gloss?
+117. Bar of soap or shower gel?
+118. Tattoos or piercings?
+119. Reading a book or listening to music?
+120. Bake a cake or buy a cake?
+121. Carpet or hardwood floors?
+122. Superheroes or supervillains?
+123. Gloves or mittens?
+124. Hot or cold?
+125. Coffee black or with cream and sugar?
+126. Batman or Superman?
+127. White meat or dark meat?
+128. Hard or soft shell tacos?
+129. Skiing or snowboarding?
+130. Fruits or vegetables?
+131. Milk chocolate or dark chocolate?
+132. Hamburgers or hot dogs?
+133. Pizza toppings: meat or veggies?
+134. French fries or onion rings?
+135. Soup or salad?
+136. Video games or board games?
+137. Tennis or badminton?
+138. Running or walking?
+139. Singing or dancing?
+140. Reading or writing?
+141. TV shows or movies?
+142. Novels or comic books?
+143. Biking or hiking?
+144. Fishing or gardening?
+145. Blogging or writing in a diary?
+146. Sewing or knitting?
+147. Yoga or parkour?
+148. Twitter or Instagram?
+149. Chess or checkers?
+150. Beard or clean shaven?
+151. Dress or skirt?
+152. T-shirt or sweater?
+153. Ears pierced or nose pierced?
+154. Bangs or no bangs?
+155. Straight hair or curly hair?
+156. Pants or shorts?
+157. Watch or bracelet?
+158. Two-story house or one-story house?
+159. Backyard or front yard?
+160. Rural or urban?
+161. Basement or attic?
+162. Heater or air conditioner?
+163. Sofa or bed?
+164. Microwave or oven?
+165. Gas stove or electric stove?
+166. Grass or trees?
+167. Flower garden or vegetable garden?
+168. Vacuum or mop?
+169. Clean the bathroom or clean the kitchen?
+170. Do the dishes or do the laundry?
+171. Europe or Asia?
+172. Aquarium or zoo?
+173. Movie theater or arcade?
+174. Play or musical?
+175. Art museum or history museum?
+176. Day trip or overnight trip?
+177. Spontaneous trip or planned trip?
+178. Travel alone or travel with others?
+179. Bring a backpack or bring a suitcase?
+180. Sleep too much or sleep too little?
+181. Wasps or bees?
+182. Cemetery or haunted house?
+183. Fantasy or drama?
+184. Go forward in time or go back in time?
+185. Super tall or super short?
+186. Three arms or three legs?
+187. Swimming pool or hot tub?
