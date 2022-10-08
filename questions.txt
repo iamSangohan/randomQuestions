@@ -1,0 +1,32 @@
+1. Ton film préféré ?
+2. Ta serie préférée ?
+3. Quel prof t'effraie après 2 semaines de cours ?
+4. Quelle est la première lettre du prénom de ton pain ?
+5. Préfères-tu ton pain ou ton père ?
+6. Aimerais-tu que tes enfants deviennent informaticien(ne)s ?
+7. Combien d'enfants minimum ?
+8. As-tu déjà menti à un entretien d’embauche ou sur ton CV ?
+9. Quel est ton job idéal ?
+10. As-tu déjà fouillé dans le portable de ta copine (copain) ?
+11. Quelle est ta plus grande peur ?
+12. Qui admires-tu le plus et pourquoi (à ESATIC ici) ?
+13. Si on te donnait 3 voeux, quels seraient-ils ?
+14. Tu viens de gagner 100 000Fcfa, que fais-tu de cet argent ?
+15. Quelle est la corvée que tu détestes le plus ? 
+16. Quel est/a été ton dream job ?
+17. Quel super pouvoir voudrais-tu avoir ?
+18. Quel est ton super-hero préféré ?
+19. Qui est ton celebrity crush ?
+20. Ta plus grande qualité ?
+21. Ton plus grand defaut ?
+22. Pourquoi l'ESATIC ?
+23. Ton langage préféré ?
+24. Samsung ou Iphone ?
+25. Soirée en boite ou Night Coding ?
+26. Work Hard or Play Hard ?
+27. Rich Friend or Loyal Friend ?
+29. Argent ou Temps ?
+30. Facebook or Instagram?
+31. Action ou vérité ?
+32. Batman ou Superman ?
+33. ESATIC ou INP ?
